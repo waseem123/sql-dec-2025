@@ -1,0 +1,334 @@
+<?xml version="1.0"?>
+<?mso-application progid="Excel.Sheet"?>
+<Workbook xmlns="urn:schemas-microsoft-com:office:spreadsheet"
+ xmlns:o="urn:schemas-microsoft-com:office:office"
+ xmlns:x="urn:schemas-microsoft-com:office:excel"
+ xmlns:ss="urn:schemas-microsoft-com:office:spreadsheet"
+ xmlns:html="http://www.w3.org/TR/REC-html40">
+ <DocumentProperties xmlns="urn:schemas-microsoft-com:office:office">
+  <LastAuthor>Admin</LastAuthor>
+  <LastSaved>2026-01-15T14:57:42Z</LastSaved>
+  <Version>14.00</Version>
+ </DocumentProperties>
+ <OfficeDocumentSettings xmlns="urn:schemas-microsoft-com:office:office">
+  <AllowPNG/>
+ </OfficeDocumentSettings>
+ <ExcelWorkbook xmlns="urn:schemas-microsoft-com:office:excel">
+  <WindowHeight>10005</WindowHeight>
+  <WindowWidth>10005</WindowWidth>
+  <WindowTopX>120</WindowTopX>
+  <WindowTopY>135</WindowTopY>
+  <ProtectStructure>False</ProtectStructure>
+  <ProtectWindows>False</ProtectWindows>
+ </ExcelWorkbook>
+ <Styles>
+  <Style ss:ID="Default" ss:Name="Normal">
+   <Alignment ss:Vertical="Bottom"/>
+   <Borders/>
+   <Font ss:FontName="Calibri" x:Family="Swiss" ss:Size="11" ss:Color="#000000"/>
+   <Interior/>
+   <NumberFormat/>
+   <Protection/>
+  </Style>
+  <Style ss:ID="s62">
+   <Font ss:FontName="Calibri" x:Family="Swiss" ss:Size="11" ss:Color="#000000"
+    ss:Bold="1"/>
+  </Style>
+  <Style ss:ID="s63">
+   <Interior ss:Color="#FFFF00" ss:Pattern="Solid"/>
+  </Style>
+  <Style ss:ID="s67">
+   <Interior ss:Color="#00B0F0" ss:Pattern="Solid"/>
+  </Style>
+ </Styles>
+ <Worksheet ss:Name="Table1">
+  <Table ss:ExpandedColumnCount="14" ss:ExpandedRowCount="26" x:FullColumns="1"
+   x:FullRows="1" ss:DefaultRowHeight="15">
+   <Column ss:Width="38.25"/>
+   <Column ss:Width="64.5"/>
+   <Column ss:Width="52.5"/>
+   <Column ss:Width="63.75"/>
+   <Column ss:Width="58.5"/>
+   <Column ss:Width="41.25"/>
+   <Column ss:Index="11" ss:Width="57"/>
+   <Column ss:Width="58.5"/>
+   <Column ss:Width="71.25"/>
+   <Row ss:AutoFitHeight="0">
+    <Cell ss:StyleID="s62"><Data ss:Type="String">roll_no</Data></Cell>
+    <Cell ss:StyleID="s62"><Data ss:Type="String">stud_name</Data></Cell>
+    <Cell ss:StyleID="s62"><Data ss:Type="String">stud_city</Data></Cell>
+    <Cell ss:StyleID="s62"><Data ss:Type="String">stud_gender</Data></Cell>
+    <Cell ss:StyleID="s62"><Data ss:Type="String">stud_marks</Data></Cell>
+    <Cell ss:StyleID="s62"><Data ss:Type="String">dept_id</Data></Cell>
+    <Cell ss:StyleID="s62"/>
+    <Cell ss:StyleID="s62"/>
+    <Cell ss:StyleID="s62"/>
+    <Cell ss:StyleID="s62"/>
+    <Cell ss:StyleID="s62"><Data ss:Type="String">dept_id</Data></Cell>
+    <Cell ss:StyleID="s62"><Data ss:Type="String">dept_name</Data></Cell>
+    <Cell ss:StyleID="s62"><Data ss:Type="String">dept_building</Data></Cell>
+    <Cell ss:StyleID="s62"/>
+   </Row>
+   <Row ss:AutoFitHeight="0">
+    <Cell ss:StyleID="s63"><Data ss:Type="Number">1</Data></Cell>
+    <Cell ss:StyleID="s63"><Data ss:Type="String">Ahmed Khan</Data></Cell>
+    <Cell ss:StyleID="s63"><Data ss:Type="String">Solapur</Data></Cell>
+    <Cell ss:StyleID="s63"><Data ss:Type="String">M</Data></Cell>
+    <Cell ss:StyleID="s63"><Data ss:Type="Number">72.349999999999994</Data></Cell>
+    <Cell ss:StyleID="s63"><Data ss:Type="Number">1</Data></Cell>
+    <Cell ss:Index="11"><Data ss:Type="Number">1</Data></Cell>
+    <Cell><Data ss:Type="String">CSE</Data></Cell>
+    <Cell><Data ss:Type="String">A</Data></Cell>
+   </Row>
+   <Row ss:AutoFitHeight="0">
+    <Cell ss:StyleID="s63"><Data ss:Type="Number">2</Data></Cell>
+    <Cell ss:StyleID="s63"><Data ss:Type="String">Faiz</Data></Cell>
+    <Cell ss:StyleID="s63"><Data ss:Type="String">Pune</Data></Cell>
+    <Cell ss:StyleID="s63"><Data ss:Type="String">M</Data></Cell>
+    <Cell ss:StyleID="s63"><Data ss:Type="Number">94.55</Data></Cell>
+    <Cell ss:StyleID="s63"><Data ss:Type="Number">1</Data></Cell>
+    <Cell ss:Index="11"><Data ss:Type="Number">2</Data></Cell>
+    <Cell><Data ss:Type="String">MECH</Data></Cell>
+    <Cell><Data ss:Type="String">B</Data></Cell>
+   </Row>
+   <Row ss:AutoFitHeight="0">
+    <Cell ss:StyleID="s63"><Data ss:Type="Number">3</Data></Cell>
+    <Cell ss:StyleID="s63"><Data ss:Type="String">Tanzila</Data></Cell>
+    <Cell ss:StyleID="s63"><Data ss:Type="String">Bengaluru</Data></Cell>
+    <Cell ss:StyleID="s63"><Data ss:Type="String">F</Data></Cell>
+    <Cell ss:StyleID="s63"><Data ss:Type="Number">91.21</Data></Cell>
+    <Cell ss:StyleID="s63"><Data ss:Type="Number">3</Data></Cell>
+    <Cell ss:Index="11"><Data ss:Type="Number">3</Data></Cell>
+    <Cell><Data ss:Type="String">ENTC</Data></Cell>
+    <Cell><Data ss:Type="String">C</Data></Cell>
+   </Row>
+   <Row ss:AutoFitHeight="0">
+    <Cell ss:StyleID="s63"><Data ss:Type="Number">4</Data></Cell>
+    <Cell ss:StyleID="s63"><Data ss:Type="String">Misbha</Data></Cell>
+    <Cell ss:StyleID="s63"><Data ss:Type="String">Chennai</Data></Cell>
+    <Cell ss:StyleID="s63"><Data ss:Type="String">F</Data></Cell>
+    <Cell ss:StyleID="s63"><Data ss:Type="Number">91.21</Data></Cell>
+    <Cell ss:StyleID="s63"><Data ss:Type="Number">2</Data></Cell>
+    <Cell ss:Index="11"><Data ss:Type="Number">4</Data></Cell>
+    <Cell><Data ss:Type="String">Civil</Data></Cell>
+    <Cell><Data ss:Type="String">D</Data></Cell>
+   </Row>
+   <Row ss:AutoFitHeight="0">
+    <Cell ss:StyleID="s63"><Data ss:Type="Number">5</Data></Cell>
+    <Cell ss:StyleID="s63"><Data ss:Type="String">Akifa</Data></Cell>
+    <Cell ss:StyleID="s63"><Data ss:Type="String">Mumbai</Data></Cell>
+    <Cell ss:StyleID="s63"><Data ss:Type="String">F</Data></Cell>
+    <Cell ss:StyleID="s63"><Data ss:Type="Number">92</Data></Cell>
+    <Cell ss:StyleID="s63"><Data ss:Type="Number">4</Data></Cell>
+   </Row>
+   <Row ss:AutoFitHeight="0">
+    <Cell ss:StyleID="s63"><Data ss:Type="Number">6</Data></Cell>
+    <Cell ss:StyleID="s63"><Data ss:Type="String">Galib</Data></Cell>
+    <Cell ss:StyleID="s63"><Data ss:Type="String">Kolkata</Data></Cell>
+    <Cell ss:StyleID="s63"><Data ss:Type="String">M</Data></Cell>
+    <Cell ss:StyleID="s63"><Data ss:Type="Number">63</Data></Cell>
+    <Cell ss:StyleID="s63"><Data ss:Type="Number">3</Data></Cell>
+   </Row>
+   <Row ss:AutoFitHeight="0">
+    <Cell ss:StyleID="s63"><Data ss:Type="Number">7</Data></Cell>
+    <Cell ss:StyleID="s63"><Data ss:Type="String">Amber</Data></Cell>
+    <Cell ss:StyleID="s63"><Data ss:Type="String">Varanasi</Data></Cell>
+    <Cell ss:StyleID="s63"><Data ss:Type="String">M</Data></Cell>
+    <Cell ss:StyleID="s63"><Data ss:Type="Number">98</Data></Cell>
+    <Cell ss:StyleID="s63"><Data ss:Type="Number">1</Data></Cell>
+   </Row>
+   <Row ss:AutoFitHeight="0">
+    <Cell ss:StyleID="s63"><Data ss:Type="Number">8</Data></Cell>
+    <Cell ss:StyleID="s63"><Data ss:Type="String">Sulaim</Data></Cell>
+    <Cell ss:StyleID="s63"><Data ss:Type="String">Nagpur</Data></Cell>
+    <Cell ss:StyleID="s63"><Data ss:Type="String">F</Data></Cell>
+    <Cell ss:StyleID="s63"><Data ss:Type="Number">91</Data></Cell>
+    <Cell ss:StyleID="s63"><Data ss:Type="Number">2</Data></Cell>
+   </Row>
+   <Row ss:AutoFitHeight="0">
+    <Cell ss:StyleID="s63"><Data ss:Type="Number">9</Data></Cell>
+    <Cell ss:StyleID="s63"><Data ss:Type="String">Samarth</Data></Cell>
+    <Cell ss:StyleID="s63"><Data ss:Type="String">Mumbai</Data></Cell>
+    <Cell ss:StyleID="s63"><Data ss:Type="String">M</Data></Cell>
+    <Cell ss:StyleID="s63"><Data ss:Type="Number">82.35</Data></Cell>
+    <Cell ss:StyleID="s63"><Data ss:Type="Number">3</Data></Cell>
+   </Row>
+   <Row ss:AutoFitHeight="0">
+    <Cell ss:StyleID="s63"><Data ss:Type="Number">10</Data></Cell>
+    <Cell ss:StyleID="s63"><Data ss:Type="String">Sadik</Data></Cell>
+    <Cell ss:StyleID="s63"><Data ss:Type="String">Bhopal</Data></Cell>
+    <Cell ss:StyleID="s63"><Data ss:Type="String">M</Data></Cell>
+    <Cell ss:StyleID="s63"><Data ss:Type="Number">92.35</Data></Cell>
+    <Cell ss:StyleID="s63"><Data ss:Type="Number">4</Data></Cell>
+   </Row>
+   <Row ss:AutoFitHeight="0">
+    <Cell ss:StyleID="s63"><Data ss:Type="Number">11</Data></Cell>
+    <Cell ss:StyleID="s63"><Data ss:Type="String">Taha</Data></Cell>
+    <Cell ss:StyleID="s63"><Data ss:Type="String">Jaipur</Data></Cell>
+    <Cell ss:StyleID="s63"><Data ss:Type="String">M</Data></Cell>
+    <Cell ss:StyleID="s63"><Data ss:Type="Number">74.44</Data></Cell>
+    <Cell ss:StyleID="s63"><Data ss:Type="Number">1</Data></Cell>
+   </Row>
+   <Row ss:AutoFitHeight="0">
+    <Cell ss:StyleID="s63"><Data ss:Type="Number">12</Data></Cell>
+    <Cell ss:StyleID="s63"><Data ss:Type="String">Gufran</Data></Cell>
+    <Cell ss:StyleID="s63"><Data ss:Type="String">Udaipur</Data></Cell>
+    <Cell ss:StyleID="s63"><Data ss:Type="String">M</Data></Cell>
+    <Cell ss:StyleID="s63"><Data ss:Type="Number">78</Data></Cell>
+    <Cell ss:StyleID="s63"><Data ss:Type="Number">2</Data></Cell>
+   </Row>
+   <Row ss:AutoFitHeight="0">
+    <Cell ss:StyleID="s63"><Data ss:Type="Number">13</Data></Cell>
+    <Cell ss:StyleID="s63"><Data ss:Type="String">Nihal</Data></Cell>
+    <Cell ss:StyleID="s63"><Data ss:Type="String">Delhi</Data></Cell>
+    <Cell ss:StyleID="s63"><Data ss:Type="String">M</Data></Cell>
+    <Cell ss:StyleID="s63"><Data ss:Type="Number">77</Data></Cell>
+    <Cell ss:StyleID="s63"><Data ss:Type="Number">1</Data></Cell>
+   </Row>
+   <Row ss:AutoFitHeight="0">
+    <Cell ss:StyleID="s63"><Data ss:Type="Number">14</Data></Cell>
+    <Cell ss:StyleID="s63"><Data ss:Type="String">Miran</Data></Cell>
+    <Cell ss:StyleID="s63"><Data ss:Type="String">Vijaypura</Data></Cell>
+    <Cell ss:StyleID="s63"><Data ss:Type="String">M</Data></Cell>
+    <Cell ss:StyleID="s63"><Data ss:Type="Number">80.77</Data></Cell>
+    <Cell ss:StyleID="s63"><Data ss:Type="Number">1</Data></Cell>
+   </Row>
+   <Row ss:AutoFitHeight="0">
+    <Cell ss:StyleID="s63"><Data ss:Type="Number">15</Data></Cell>
+    <Cell ss:StyleID="s63"><Data ss:Type="String">Peerahmed</Data></Cell>
+    <Cell ss:StyleID="s63"><Data ss:Type="String">Solapur</Data></Cell>
+    <Cell ss:StyleID="s63"><Data ss:Type="String">M</Data></Cell>
+    <Cell ss:StyleID="s63"><Data ss:Type="Number">82.5</Data></Cell>
+    <Cell ss:StyleID="s63"><Data ss:Type="Number">3</Data></Cell>
+    <Cell ss:Index="10" ss:StyleID="s62"><Data ss:Type="String">roll_no</Data></Cell>
+    <Cell ss:StyleID="s62"><Data ss:Type="String">stud_name</Data></Cell>
+    <Cell ss:StyleID="s62"><Data ss:Type="String">dept_name</Data></Cell>
+   </Row>
+   <Row ss:AutoFitHeight="0">
+    <Cell ss:StyleID="s67"><Data ss:Type="Number">16</Data></Cell>
+    <Cell ss:StyleID="s67"><Data ss:Type="String">Sahil</Data></Cell>
+    <Cell ss:StyleID="s67"><Data ss:Type="String">Mumbai</Data></Cell>
+    <Cell ss:StyleID="s67"><Data ss:Type="String">M</Data></Cell>
+    <Cell ss:StyleID="s67"><Data ss:Type="Number">87.5</Data></Cell>
+    <Cell ss:StyleID="s67"/>
+    <Cell ss:Index="10"><Data ss:Type="Number">1</Data></Cell>
+    <Cell><Data ss:Type="String">Ahmed Khan</Data></Cell>
+    <Cell><Data ss:Type="String">CSE</Data></Cell>
+   </Row>
+   <Row ss:AutoFitHeight="0">
+    <Cell ss:StyleID="s63"><Data ss:Type="Number">17</Data></Cell>
+    <Cell ss:StyleID="s63"><Data ss:Type="String">Roger</Data></Cell>
+    <Cell ss:StyleID="s63"><Data ss:Type="String">Solapur</Data></Cell>
+    <Cell ss:StyleID="s63"><Data ss:Type="String">M</Data></Cell>
+    <Cell ss:StyleID="s63"><Data ss:Type="Number">67.5</Data></Cell>
+    <Cell ss:StyleID="s63"><Data ss:Type="Number">4</Data></Cell>
+    <Cell ss:Index="10"><Data ss:Type="Number">2</Data></Cell>
+    <Cell><Data ss:Type="String">Faiz</Data></Cell>
+    <Cell><Data ss:Type="String">CSE</Data></Cell>
+   </Row>
+   <Row ss:AutoFitHeight="0">
+    <Cell ss:StyleID="s63"><Data ss:Type="Number">18</Data></Cell>
+    <Cell ss:StyleID="s63"><Data ss:Type="String">Peter</Data></Cell>
+    <Cell ss:StyleID="s63"><Data ss:Type="String">Pune</Data></Cell>
+    <Cell ss:StyleID="s63"><Data ss:Type="String">M</Data></Cell>
+    <Cell ss:StyleID="s63"><Data ss:Type="Number">75.5</Data></Cell>
+    <Cell ss:StyleID="s63"><Data ss:Type="Number">3</Data></Cell>
+    <Cell ss:Index="10"><Data ss:Type="Number">3</Data></Cell>
+    <Cell><Data ss:Type="String">Tanzila</Data></Cell>
+    <Cell><Data ss:Type="String">ENTC</Data></Cell>
+   </Row>
+   <Row ss:AutoFitHeight="0">
+    <Cell ss:StyleID="s63"><Data ss:Type="Number">19</Data></Cell>
+    <Cell ss:StyleID="s63"><Data ss:Type="String">Sam</Data></Cell>
+    <Cell ss:StyleID="s63"><Data ss:Type="String">Mumbai</Data></Cell>
+    <Cell ss:StyleID="s63"><Data ss:Type="String">M</Data></Cell>
+    <Cell ss:StyleID="s63"><Data ss:Type="Number">74.5</Data></Cell>
+    <Cell ss:StyleID="s63"><Data ss:Type="Number">4</Data></Cell>
+   </Row>
+   <Row ss:AutoFitHeight="0">
+    <Cell ss:StyleID="s63"><Data ss:Type="Number">20</Data></Cell>
+    <Cell ss:StyleID="s63"><Data ss:Type="String">Robert</Data></Cell>
+    <Cell ss:StyleID="s63"><Data ss:Type="String">Solapur</Data></Cell>
+    <Cell ss:StyleID="s63"><Data ss:Type="String">M</Data></Cell>
+    <Cell ss:StyleID="s63"><Data ss:Type="Number">90</Data></Cell>
+    <Cell ss:StyleID="s63"><Data ss:Type="Number">2</Data></Cell>
+   </Row>
+   <Row ss:AutoFitHeight="0">
+    <Cell ss:StyleID="s63"><Data ss:Type="Number">21</Data></Cell>
+    <Cell ss:StyleID="s63"><Data ss:Type="String">John</Data></Cell>
+    <Cell ss:StyleID="s63"><Data ss:Type="String">Pune</Data></Cell>
+    <Cell ss:StyleID="s63"><Data ss:Type="String">M</Data></Cell>
+    <Cell ss:StyleID="s63"><Data ss:Type="Number">80</Data></Cell>
+    <Cell ss:StyleID="s63"><Data ss:Type="Number">3</Data></Cell>
+   </Row>
+   <Row ss:AutoFitHeight="0">
+    <Cell ss:StyleID="s67"><Data ss:Type="Number">25</Data></Cell>
+    <Cell ss:StyleID="s67"><Data ss:Type="String">Alex</Data></Cell>
+    <Cell ss:StyleID="s67"><Data ss:Type="String">Solapur</Data></Cell>
+    <Cell ss:StyleID="s67"><Data ss:Type="String">M</Data></Cell>
+    <Cell ss:StyleID="s67"><Data ss:Type="Number">87.5</Data></Cell>
+    <Cell ss:StyleID="s67"/>
+   </Row>
+   <Row ss:AutoFitHeight="0">
+    <Cell ss:StyleID="s63"><Data ss:Type="Number">26</Data></Cell>
+    <Cell ss:StyleID="s63"><Data ss:Type="String">Alice</Data></Cell>
+    <Cell ss:StyleID="s63"><Data ss:Type="String">Paris</Data></Cell>
+    <Cell ss:StyleID="s63"><Data ss:Type="String">F</Data></Cell>
+    <Cell ss:StyleID="s63"><Data ss:Type="Number">80.099999999999994</Data></Cell>
+    <Cell ss:StyleID="s63"><Data ss:Type="Number">4</Data></Cell>
+   </Row>
+   <Row ss:AutoFitHeight="0">
+    <Cell ss:StyleID="s63"><Data ss:Type="Number">27</Data></Cell>
+    <Cell ss:StyleID="s63"><Data ss:Type="String">Farah</Data></Cell>
+    <Cell ss:StyleID="s63"><Data ss:Type="String"></Data></Cell>
+    <Cell ss:StyleID="s63"><Data ss:Type="String">F</Data></Cell>
+    <Cell ss:StyleID="s63"><Data ss:Type="Number">68.75</Data></Cell>
+    <Cell ss:StyleID="s63"><Data ss:Type="Number">1</Data></Cell>
+   </Row>
+   <Row ss:AutoFitHeight="0">
+    <Cell ss:StyleID="s67"><Data ss:Type="Number">28</Data></Cell>
+    <Cell ss:StyleID="s67"><Data ss:Type="String">Madiha</Data></Cell>
+    <Cell ss:StyleID="s67"><Data ss:Type="String"></Data></Cell>
+    <Cell ss:StyleID="s67"><Data ss:Type="String">F</Data></Cell>
+    <Cell ss:StyleID="s67"><Data ss:Type="Number">88</Data></Cell>
+    <Cell ss:StyleID="s67"/>
+   </Row>
+  </Table>
+  <WorksheetOptions xmlns="urn:schemas-microsoft-com:office:excel">
+   <Unsynced/>
+   <Print>
+    <ValidPrinterInfo/>
+    <HorizontalResolution>600</HorizontalResolution>
+    <VerticalResolution>600</VerticalResolution>
+   </Print>
+   <Zoom>145</Zoom>
+   <Selected/>
+   <TopRowVisible>15</TopRowVisible>
+   <Panes>
+    <Pane>
+     <Number>3</Number>
+     <ActiveRow>31</ActiveRow>
+     <ActiveCol>4</ActiveCol>
+    </Pane>
+   </Panes>
+   <ProtectObjects>False</ProtectObjects>
+   <ProtectScenarios>False</ProtectScenarios>
+  </WorksheetOptions>
+ </Worksheet>
+ <Worksheet ss:Name="Sheet2">
+  <Table ss:ExpandedColumnCount="1" ss:ExpandedRowCount="1" x:FullColumns="1"
+   x:FullRows="1" ss:DefaultRowHeight="15">
+   <Row ss:AutoFitHeight="0"/>
+  </Table>
+  <WorksheetOptions xmlns="urn:schemas-microsoft-com:office:excel">
+   <PageSetup>
+    <Header x:Margin="0.3"/>
+    <Footer x:Margin="0.3"/>
+    <PageMargins x:Bottom="0.75" x:Left="0.7" x:Right="0.7" x:Top="0.75"/>
+   </PageSetup>
+   <Unsynced/>
+   <ProtectObjects>False</ProtectObjects>
+   <ProtectScenarios>False</ProtectScenarios>
+  </WorksheetOptions>
+ </Worksheet>
+</Workbook>

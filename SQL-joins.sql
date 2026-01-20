@@ -43,6 +43,7 @@ FROM tbl_student as s
 JOIN tbl_dept as d
 ON s.dept_id = d.dept_id
 ORDER BY s.roll_no;
+
 -- SQL to fetch department name of specific student by roll_no
 SELECT d.dept_name FROM tbl_student as s
 JOIN tbl_dept as d
@@ -50,15 +51,22 @@ ON s.dept_id = d.dept_id
 WHERE s.roll_no=3;
 
 -- Fetchind student names using dept_name
-SELECT s.stud_name
+SELECT s.stud_name,d.dept_name
 FROM tbl_student as s
 JOIN tbl_dept as d
 ON s.dept_id=d.dept_id
-WHERE d.dept_name = 'MECH';
+WHERE d.dept_name = 'MECH'
+OR d.dept_name = 'CSE';
 
-
+-- Fetching the students and their departments of Solapur city
 SELECT s.stud_name,d.dept_name FROM
 tbl_student as s
 JOIN tbl_dept as d
 ON s.dept_id = d.dept_id
 WHERE stud_city='Solapur';
+
+SELECT s.stud_name,d.dept_name
+FROM tbl_student as s
+JOIN tbl_dept as d
+ON s.dept_id=d.dept_id
+WHERE d.dept_name NOT IN('MECH','CSE','CIVIL');
