@@ -1,6 +1,7 @@
 USE db_company;
 
 SELECT * FROM tbl_employee;
+Show tables;
 
 TRUNCATE tbl_employee;
 
@@ -32,3 +33,12 @@ INSERT INTO tbl_employee (emp_id, emp_name, emp_designation, manager_id, emp_sal
 (18, 'Quinn', 'HR Generalist', 4, 95000),
 (19, 'Riley', 'Recruiter', 4, 88000),
 (20, 'Steve', 'Payroll Specialist', 4, 92000);
+
+
+SELECT m.emp_id,
+	m.emp_name as employee,
+    COALESCE(e.emp_name,'BOSS') as manager
+FROM tbl_employee as e
+RIGHT JOIN tbl_employee as m
+ON e.emp_id = m.manager_id
+ORDER BY m.emp_id;
